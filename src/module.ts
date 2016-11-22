@@ -18,4 +18,4 @@ let user =  new Student('Oleg', 'N.', 'Drapeza', 'awd');
 
 document.body.innerHTML = greeter(user);
 
-export = Student;
+export default Student;
